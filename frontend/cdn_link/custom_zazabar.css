@@ -1,0 +1,78 @@
+
+/*Other*/
+a.category {
+    width: 149px !important;
+}
+div.catalogBrowser .categoryHeader ol.breadcrumb li.crumb:after {
+    content: '';
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    margin: 0 10px;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+/**/
+.dataTables_filter, .dataTables_paginate {
+    float: right !important;
+}
+
+.dataTables_paginate .pagination {
+    margin: 0px !important;
+}
+
+
+div.product .imageWrapper .imageWrapperWrapper {
+    width: 100%;
+}
+
+.shipping-container .progress {
+    margin-bottom: 0px;
+    border-radius: 0px;
+}
+.breadcrumb>li+li:before {
+    display: none;
+}
+
+
+/*Category Banner Start*/
+.fade-carousel-container {
+    max-width: 100%;
+    width: 100%;
+}
+div.catalogBrowser .normalBanner img {
+    width: 100%;
+    max-height: 215px;
+}
+/*Category Banner End*/
+
+/*Cart redesign Start*/
+.stickyHeader{
+    display: none !important;
+}
+.helpArea{
+    display: block !important;
+}
+a.cart_top:hover{
+    color: #FFFFFF !important;
+}
+/*Cart redesign End*/
+
+
+@media (max-width: 700px) {
+    .theme .headerWrapperWrapper .top-header .helpArea {
+        display: none !important;
+    }
+}
+
+
+.theme .headerWrapperWrapper .top-header .logo a .theme_logo {
+    height: 55px;
+    background-size: 190px;
+}

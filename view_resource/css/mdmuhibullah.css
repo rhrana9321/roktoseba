@@ -1,0 +1,206 @@
+.colPadding {
+	padding:0px;
+}
+.header1 {
+	background-image: linear-gradient(to bottom, #fdd670 0%, #fdd670 100%); padding:6px 0px; color:#FFFFFF;
+}
+.header2 {
+	color:#FFFFFF; font-size:13px;
+}
+.header2:hover {
+	color:#FFFFFF; text-decoration:none;
+}
+
+
+.button1 {
+	color:#ffffff; font-size:14px; border:none; width:100%; background-color:#e87e04; padding:8px 0px 8px 0px; border-radius:3px;
+	
+}
+ .button1:hover {
+   color:#FFFFFF; background-color:#3071a9; text-decoration:none;
+}
+
+
+.color428bca {
+	background-color:#428bca;
+}
+
+.lgPg1 {
+	padding:90px 0px 50px 0px;
+}
+.lgPg2 {
+	background-color:#FFFFFF; padding:40px 40px 0px 40px; border-radius:3px 3px 0px 0px;
+}
+.lgPg3 {
+	color:#636e7b; font-size:18px; text-align:center; padding:20px 0px 5px 0px;
+}
+.lgPg4 {
+	color:#636e7b; font-size:13px; text-align:center; padding:0px 0px 20px 0px;
+}
+.lgPg5 {
+	padding:15px 0px 60px 0px;
+}
+.lgPg6 {
+	color:#636e7b; font-size:13px; padding:0px;
+}
+.lgPg7 {
+	color:#e87e04;
+}
+ .lgPg7:hover {
+   color:#3071a9; text-decoration:none;
+}
+.lgPg8 {
+	background-color:#f7f7f7; border-top:solid 1px #dddddd; padding:20px 40px 20px 40px; border-radius:0px 0px 3px 3px;
+}
+
+.sgpg1 {
+	color:#e87e04; font-size:15px; padding:15px 0px; font-weight:600;
+}
+
+
+.userHeader1 {
+	background-color:#428bca; padding:10px 0px;
+}
+.userHeader2 {
+	border-right:solid 1px #5b98cc;
+}
+.button2 {
+    background-color:rgba(0, 0, 0, 0.1);
+    border:0 none;
+    border-radius:50px;
+    color:rgba(255, 255, 255, 0.75);
+    line-height:normal;
+    margin-left:5px;
+	padding:8px 10px 8px;
+}
+#bCoBg {
+    background-color:#FFFFFF; color:#000000;
+}
+.button3:hover {
+	background-color: rgba(0, 0, 0, 0.2);
+	color:#FFFFFF;
+}
+.userHeader3 {
+	padding-top:66px;
+}
+.userHeader4 {
+	border: solid 1px #e4e4e4; padding:20px 0px;
+}
+.userHeader5 {
+	border-radius:50px; border: solid 2px blue;
+}
+.userHeader6 {
+	font-size:16px;
+}
+.userHeader7 {
+	color:#777777; font-size:12px;
+}
+.userHeader8 {
+	padding:15px 0px; margin-bottom:20px; border-bottom: 1px solid #eee; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.03);
+}
+.userHeader9 {
+	background-color:#4e5154; border-radius:3px; color:#fff; display:inline-block; font-size:32px; padding:10px;
+}
+.userHeader10 {
+	font-size:12px; color:#999999;
+}
+.userHeader11 {
+	color: #2f363d; font-size: 28px;
+}
+.userHeader12 {
+	padding-top:20px;
+}
+.userHeader13 {
+	background-color:#5cb85c; padding:20px 20px 75px 20px; color:#FFFFFF; text-transform: uppercase; border-radius:3px;
+}
+.userHeader14 {
+	background-color:#eff8ef; padding:10px; margin-right:15px; color:#000000; font-size:36px;
+}
+.userHeader15 {
+	background-color:#e87e04; padding:20px 20px 75px 20px; color:#FFFFFF; text-transform: uppercase; border-radius:3px;
+}
+.userHeader16 {
+	background-color:#eff8ef; padding:10px 20px; margin-right:15px; color:#000000; font-size:36px;
+}
+.userHeader17 {
+	background-color:#d9534f; padding:8px 20px 15px 20px; color:#FFFFFF; text-transform: uppercase; border-radius:3px;
+}
+.userHeader18 {
+	padding:20px 0px;
+}
+.userHeader19 {
+	border:solid 1px #46b8da; border-radius:3px;
+}
+.userHeader20 {
+	background-color:#5bc0de; padding:15px 15px; color:#FFFFFF; font-size:16px; border-radius:3px;
+}
+.userHeader21 {
+	padding:0px 15px; color:#636e7b;
+}
+.userHeader22 {
+	border:solid 1px #eea236; border-radius:3px;
+}
+.userHeader23 {
+	background-color:#f0ad4e; padding:15px 15px; color:#FFFFFF; font-size:16px; border-radius:3px;
+}
+.userHeader24 {
+	border:solid 1px #d43f3a; border-radius:3px;
+}
+.userHeader25 {
+	background-color:#d9534f; padding:15px 15px; color:#FFFFFF; font-size:16px; border-radius:3px;
+}
+
+
+
+
+
+.attachmentbody{
+	width: 114px;
+	height: 110px;
+	float: left;
+}
+.attachmentbody .progress{
+	height: 12px;
+	margin-top: 45px;
+}
+.attachmentbody ul {
+	border-radius: 5px;
+	list-style: outside none none;
+	position: relative;
+	float: left;
+	padding: 0;
+}
+.attachmentbody ul li.remove{
+	top: 0;
+	right: 5px;
+	position: absolute;
+}
+.attachmentbody img {
+	border-radius: 5px;
+	height: 100px;
+	width: 100px;
+	padding: 5px;
+}
+
+.hand {
+	cursor: pointer;
+	}
+
+.attachmentbody ul.success {
+	border: 1px solid #339933;   
+}
+.attachmentbody ul.img_error {
+	background: #f0c6c3 none repeat scroll 0 0;
+	border: 1px solid #cc6622;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 500px) {
+
+
+}
+

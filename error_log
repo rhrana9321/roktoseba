@@ -1,0 +1,11 @@
+[19-Dec-2021 12:16:51 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/raktoseb/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[19-Dec-2021 16:10:51 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/raktoseb/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[19-Dec-2021 19:40:11 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/raktoseb/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[20-Dec-2021 00:17:34 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/raktoseb/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[20-Dec-2021 00:19:54 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/raktoseb/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[20-Dec-2021 01:31:44 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/raktoseb/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[20-Dec-2021 03:51:30 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/raktoseb/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[20-Dec-2021 04:07:25 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/raktoseb/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[20-Dec-2021 04:58:59 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/raktoseb/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[08-Jan-2022 16:39:46 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/raktoseb/public_html/application/models/M_cloud.php on line 119
+[08-Jan-2022 16:39:46 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/raktoseb/public_html/application/models/M_cloud.php on line 119

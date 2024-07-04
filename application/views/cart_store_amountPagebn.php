@@ -1,0 +1,1 @@
+<?php echo $rows = count($this->cart->contents()); ?>
